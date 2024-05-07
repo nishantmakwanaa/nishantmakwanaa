@@ -60,7 +60,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nishantmakwana/nishantmakwana/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nishantmakwanaa/nishantmakwanaa/output/snake.svg" alt="Snake animation" />
 
 ###
 
