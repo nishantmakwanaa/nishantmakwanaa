@@ -9,7 +9,7 @@
 
 - 🔭 I’m Currently Working On [E-Waste Recycling App](https://github.com/nishantmakwanaa/E-Waste-Recycling)
 
-- 🌱 I’m currently Learning **Artificial Intelligence, Data Science, Deep Learning & Machine Learning.**
+- 🌱 I’m Currently Learning **Artificial Intelligence, Data Science, Deep Learning & Machine Learning.**
 
 - 👯 I’m Looking To Collaborate On [Human Posture Detector App](https://github.com/nishantmakwanaa/Human-Posture-Detection-App)
 
