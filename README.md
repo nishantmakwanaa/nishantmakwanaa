@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishant Makwana.</h1>
 <h3 align="center">A 19 Year-Old Indie-Hacker & Software Developer From Gujarat, India.</h3>
 
-
 - 🔭 I’m Currently Working On [E-Waste Recycling App](https://github.com/nishantmakwanaa/E-Waste-Recycling)
 
 - 🌱 I’m Currently Learning **Artificial Intelligence, Data Science, Deep Learning & Machine Learning.**
