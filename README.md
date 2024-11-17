@@ -1,42 +1,34 @@
 <h1 align="center">Hi 👋, I'm Nishant Makwana.</h1>
 <h3 align="center">A 19 Year-Old Indie-Hacker & Software Developer From Gujarat, India.</h3>
 
-- 🔭 I’m Currently Working On [E-Waste Recycling App](https://github.com/nishantmakwanaa/E-Waste-Recycling)
+- 🔭 I’m Currently Working On [E-Waste Recycling App](https://github.com/nishantmakwanaa/E-Waste-Recycling-App)
 
 - 🌱 I’m Currently Learning **Artificial Intelligence, Data Science, Deep Learning & Machine Learning.**
 
-- 👯 I’m Looking To Collaborate On [Human Posture Detector App](https://github.com/nishantmakwanaa/Human-Posture-Detection-App)
+- 👯 I’m Looking To Collaborate On [AI Yoga Assistant App](https://github.com/nishantmakwanaa/Yoga-AI-Assistant-App)
 
 - 🤝 I’m Looking For Help With [AI Code Editor](https://github.com/nishantmakwanaa/AI-Code-Editor)
 
 - 👨‍💻 All Of My Projects Are Available At [https://nishantworldwide.in](https://nishantworldwide.in)
 
-- 📝 I Regularly Write Articles On [https://nishantworldwide.in/blogs](https://nishantworldwide.in/blogs)
+- 📝 I Regularly Write Articles On [https://nishantworldwide.in/blogs](https://nishantworldwide.in)
 
-- 💬 Ask Me About **MERN Stack, NEXT JS, React-Native & DSA.**
+- 💬 Ask Me About **MERN Stack, NEXT JS, React & React-Native, DSA, SpringBoot, AI & ML.**
 
 - 📫 How To Reach Me **nishantmakwanacreations@gmail.com**
 
-- 📄 Know About My Experiences [https://nishantworldwide.in/resume](https://nishantworldwide.in/resume)
+- 📄 Know About My Experiences [https://nishantworldwide.in](https://nishantworldwide.in)
 
 - ⚡ Fun Fact **I'm Doing Multiple Things At One Time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/nishantmakwanaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nishantmakwanaa" height="30" width="40" /></a>
-<a href="https://dev.to/nishantmakwanaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nishantmakwanaa" height="30" width="40" /></a>
 <a href="https://twitter.com/nishantmakwanaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishantmakwanaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nishantmakwanaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishantmakwanaa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nishantmakwanaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nishantmakwanaa" height="30" width="40" /></a>
-<a href="https://codesandbox.com/nishantmakwanaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="nishantmakwanaa" height="30" width="40" /></a>
-<a href="https://fb.com/nishantmakwanaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nishantmakwanaa" height="30" width="40" /></a>
 <a href="https://instagram.com/nishantmakwanaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishantmakwanaa" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nishantmakwanaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nishantmakwanaa" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nishantmakwanaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nishantmakwanaa" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nishantmakwanaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nishantmakwanaa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nishantmakwanaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishantmakwanaa" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nishantmakwanaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nishantmakwanaa" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/UfxuqHcM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/UfxuqHcM" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
