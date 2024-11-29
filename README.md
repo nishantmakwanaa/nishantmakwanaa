@@ -135,11 +135,3 @@
 <h2 align="left">Spotify Activity :</h2>
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31ypcr7hinll67pzwtbjdtlyotzu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ypcr7hinll67pzwtbjdtlyotzu&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
