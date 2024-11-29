@@ -131,7 +131,3 @@
 </div>
 
 ###
-
-<h2 align="left">Spotify Activity :</h2>
-
-###
