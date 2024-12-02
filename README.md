@@ -3,7 +3,7 @@
 <br/>
   
 
-- 🔭 I’m Currently Working On [Clothing Store](https://github.com/nishantmakwanaa/Clorhing-Store).  
+- 🔭 I’m Currently Working On [Clothing Store](https://github.com/nishantmakwanaa/clothing-store).  
   
 
 - 🌱 I’m Currently Learning AI & Machine Learning.  
