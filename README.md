@@ -1,27 +1,7 @@
 ### **<div align="center">👨‍💻 | I'm Nishant, A Full-Stack Developer.</div>**  
 
-<br/>
-  
-
-- 🔭 I’m Currently Working On [Clothing Store](https://github.com/nishantmakwanaa/clothing-store).  
-  
-
-- 🌱 I’m Currently Learning AI & Machine Learning.  
-  
-
-- ❓ Ask Me About Anything Related To Web Dev. And Related Technologies.  
-  
-
-- ⚡ Fun Fact : I Use Tabs Over Spaces.  
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Front-End Skills :  
 <div align="center">  
@@ -30,8 +10,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 </div>  
 
-
-
 ### Tools :  
 <div align="center">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
@@ -39,8 +17,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Back-End Skills :  
 <div align="center">  
@@ -54,8 +30,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
