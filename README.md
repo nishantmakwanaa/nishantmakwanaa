@@ -13,11 +13,7 @@ Ex-Intern @SynerSense & @CodSoft | Hackathon Winner - Hackople’25 & Yoga-Tech 
 </h3>
 
 <p style="text-align: justify; max-width: 900px; line-height: 1.6; margin-top: 20px;">
-Hi, I’m Nishant Makwanaa, A 3rd-Year B.E. IT Student At Gujarat Technological University, Studying At Gyanmanjari Institute Of Technology. At Just 20 Years Old, I Have Been On An Incredible Journey Of Growth, Innovation, And Impact In The Tech Industry. I Am A National Hackathon Winner And A State Hackathon Finalist, Constantly Pushing My Limits To Build And Innovate. I Have Worked As A Software Engineer Intern At Synersense And Have Mastered Machine Learning And Full-Stack Development Across Web And Mobile Technologies. I Am Also A Contributor To Google Summer Of Code (2025) And GirlScript Summer Of Code, Actively Involved In Open-Source Development And Community Contributions.
-
-With A CGPA Of 8+, I Have A Strong Academic Foundation While Simultaneously Gaining Real-World Experience Through Freelancing And Building Scalable Tech Solutions. My Goal Is To Secure A FAANG Internship And A Full-Time Offer Before My 8th Semester, And I Am Dedicated To Making It A Reality. I Believe In Leveraging AI And Innovation To Solve Real-World Problems, And My Passion Lies In Developing Cutting-Edge Technologies That Make A Difference.
-
-I Am Always Looking For Opportunities To Collaborate, Contribute, And Learn From The Best Minds In The Industry. If You Are Interested In AI, Software Development, Open-Source Contributions, Or Industry Collaborations, Feel Free To Connect With Me And Let’s Build Something Amazing!
+Hi, I’m Nishant Makwanaa, A 3rd-Year B.E. IT Student At Gujarat Technological University, Studying At Gyanmanjari Institute Of Technology. National Hackathon Winner, State Hackathon Finalist, Ex-Intern @Synersense & @CodSoft, Contributor @GSSOC’25 & GirlScript Summer Of Code. Passionate About AI, Machine Learning, Full-Stack Development, Open-Source Contributions, And Building Scalable Tech Solutions. Aiming For FAANG Internship And Full-Time Offer, Dedicated To Innovation, Growth, And Industry Impact. Always Open To Collaboration And Learning Opportunities.
 </p>
 
 <br/>
