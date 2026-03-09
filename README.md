@@ -9,7 +9,7 @@
 <h1 style="font-size: 3em; margin: 10px 0;">👋 Hi, I'm Nishant Makwana</h1>
 
 <h3 style="font-size: 1.5em; font-weight: normal; margin: 5px 0;">
-21, Software Engineer | Love For F1 X @karanaujla | Work : nishantmakwanacreations@gmail.com | BHAVNAGAR ✈️ AHMEDABAD
+21, Software Engineer | Love For F1 X Karan Aujla | Work : nishantmakwanacreations@gmail.com | BHAVNAGAR ✈️ AHMEDABAD
 </h3>
 
 <p style="text-align: justify; max-width: 900px; line-height: 1.6; margin-top: 20px;">
