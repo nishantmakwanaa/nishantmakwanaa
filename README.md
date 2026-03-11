@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://pbs.twimg.com/profile_banners/2010963841686126593/1773243849/600x200" 
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEk_B0D6Yr2QQ/profile-displaybackgroundimage-shrink_350_1400/B56ZzdYz3.J8AY-/0/1773240803730?e=1775088000&v=beta&t=i2uarJsKsPdVYlS3ZtpBd_1h2cjGg--YAahf2G5Bltg" 
      alt="Nishant" 
      width="900" 
      height="450"
