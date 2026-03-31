@@ -6,8 +6,6 @@
      height="450"
      style="border-radius:20px; object-fit:cover;"/>
 
-<h1 style="font-size: 3em; margin: 10px 0;">👋 Hi, I'm Nishant Makwana</h1>
-
 <h3 style="font-size: 1.5em; font-weight: normal; margin: 5px 0;">
 Software Engineer
 </h3>
