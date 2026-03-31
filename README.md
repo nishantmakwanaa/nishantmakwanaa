@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEk_B0D6Yr2QQ/profile-displaybackgroundimage-shrink_350_1400/B56ZzdYz3.J8AY-/0/1773240803730?e=1775088000&v=beta&t=i2uarJsKsPdVYlS3ZtpBd_1h2cjGg--YAahf2G5Bltg" 
+<img src="https://pbs.twimg.com/profile_banners/2010963841686126593/1774944354/1500x500" 
      alt="Nishant" 
      width="900" 
      height="450"
@@ -9,7 +9,7 @@
 <h1 style="font-size: 3em; margin: 10px 0;">👋 Hi, I'm Nishant Makwana</h1>
 
 <h3 style="font-size: 1.5em; font-weight: normal; margin: 5px 0;">
-Software Engineer Intern - OrgLance Technologies | 10+ Hackathons | Ex-Software Engineer Intern - SynerSense | Competitive Programmer | IT’26 - GTU
+Software Engineer
 </h3>
 
 <p style="text-align: justify; max-width: 900px; line-height: 1.6; margin-top: 20px;">
