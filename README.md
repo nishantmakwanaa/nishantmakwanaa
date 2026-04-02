@@ -1,10 +1,3 @@
-<div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D5616AQG97t7MrlfyrA/profile-displaybackgroundimage-shrink_350_1400/B56Z1DFKuAKEAc-/0/1774946944516?e=1776297600&v=beta&t=lcY2PrC6taiomJORF3r6Mk-LBvECng4DfII0NPtPXs8" 
-     alt="Nishant Makwana Banner" 
-     width="100%"
-     style="border-radius:12px; object-fit:cover;"/>
-</div>
-
 # Hi, I'm Nishant 👋
 
 📍 **Bhavnagar, Gujarat, India** | 💻 **Full-Stack & Mobile Engineer** | 🚀 **Open to Work**
@@ -35,10 +28,6 @@
 - 🚇 **[metro-app](https://github.com/nishantmakwanaa/metro-app)** - Metro route navigator using graph algorithms for shortest path and fare estimation
 - 🔢 **[sudoku-solver](https://github.com/nishantmakwanaa/sudoku-solver)** - Sudoku puzzle solver using backtracking and constraint-solving in C++
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/nishantmakwanaa)
-
 ## What I'm Doing
 
 - **Interning at OrgLance Technologies** – Building a cross-platform hospital operations management app in React Native with zero regression defects across 3 releases
@@ -54,18 +43,17 @@
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://nishantmakwanaa.lovable.app)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/myselfnishant)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nishantmakwanaa)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/nishantmakwanaa)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nishantmakwanaa)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/nishantmakwanaa)
 [![LinkedIn](https://img.shields.io/badge/-nishantmakwanaa-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishantmakwanaa)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://nishantmakwanaa.lovable.app)
+[![Snapchat](https://img.shields.io/badge/-Snapchat-FFFC00?style=flat-square&logo=snapchat&logoColor=black)](https://snapchat.com/add/nishantmakwanaa)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nishantmakwanaa)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nishantmakwanaa)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@nishantmakwanaa)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nishantmakwanaa)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nishantmakwanaa)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/nishantmakwanaa)
-[![Snapchat](https://img.shields.io/badge/-Snapchat-FFFC00?style=flat-square&logo=snapchat&logoColor=black)](https://snapchat.com/add/nishantmakwanaa)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/nishantmakwanaa)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nishantmakwanaa)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/myselfnishant)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nishantmakwanaa)
 
 ---
 
