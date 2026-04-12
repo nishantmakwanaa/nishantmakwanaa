@@ -1,14 +1,16 @@
 # Hi, I'm Nishant 👋
 
-📍 **Ahmedabad, Gujarat, India** | 💻 **Full-Stack & Systems Engineer** | 🚀 **Open to Work**
+📍 **Ahmedabad, Gujarat, India** | 💻 **Full-Stack Software Engineer** | 🚀 **Open to Work**
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -17,7 +19,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-> Building high-performance, real-time systems and distributed backends — from collaborative platforms to IoT health infrastructure and ML-powered apps. Clean architecture, measurable performance, production-grade reliability.
+> Building fast, reliable, scalable products — from collaborative platforms and IoT health
+> infrastructure to ML-powered apps — with Spring Boot on the backend, React + TypeScript
+> on the frontend, and Docker + Kubernetes on AWS keeping it all running.
 
 ## Current Projects
 
@@ -29,7 +33,7 @@
 ## What I'm Doing
 
 - **Software Engineer Intern at OrgLance Technologies** – Owning end-to-end architecture of a cross-platform hospital ops app (React Native, TypeScript) serving 3 hospitals and 10+ departments — zero regression defects across 3 consecutive production releases, 95% render improvement, 40% admission workflow time reduction
-- **Previously at SynerSense Pvt. Ltd.** – Built a full-stack IoT patient vitals monitoring system (Flask, React, Arduino, AWS) ingesting 500+ metrics/hour; achieved 99.9% uptime and eliminated 70% of manual data entry across 3 hospital workflows
+- **Previously at SynerSense Pvt. Ltd.** – Built a full-stack IoT patient vitals monitoring system (Spring Boot, React, Arduino, AWS) ingesting 500+ metrics/hour; achieved 99.9% uptime and eliminated 70% of manual data entry across 3 hospital workflows
 - **Shipping CNVS** – Building [canvas.nishantmakwana.tech](https://canvas.nishantmakwana.tech/) — a real-time infinite canvas workspace for teams with live presence, OT-based sync, permissioned sharing, and offline-first autosave
 - **Leading the Coding Club at GMIT** – Founded and mentored 150+ students with weekly DSA & System Design workshops, driving a 40% improvement in on-campus placement outcomes
 - **Competing in hackathons** – 3 wins and national-level finals across multiple competitions including HackOple, TechManjari TechFest, and SSIP State Hackathon
