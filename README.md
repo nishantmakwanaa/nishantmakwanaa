@@ -1,25 +1,12 @@
 <!--
-  Portfolio source of truth: the fenced ```json block inside <details> matches data/main.json.
+  Portfolio source of truth: the fenced ```json block below matches data/main.json.
   Raw file for fetching: https://raw.githubusercontent.com/nishantmakwanaa/nishantmakwanaa/main/README.md
   Parse: extract the first ```json … ``` fence and JSON.parse the inner text.
 -->
 
 <div align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/D5603AQF9OuJAQCxH6g/profile-displayphoto-crop_800_800/B56Z2zihoIH4AU-/0/1776833669567?e=1779321600&v=beta&t=xp5W-08dhYCoAWESOWEKaiKtknhcDG3vX4Cj6kZnZqk" alt="Nishant Makwana" width="120" />
-
-# Hi, I'm Nishant Makwana
-
-### Software Engineer · Ahmedabad, India
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishantmakwanacreations@gmail.com)
-[![Schedule](https://img.shields.io/badge/Schedule-Cal.com-006BFF?style=for-the-badge&logo=calendar&logoColor=white)](https://cal.com/nishantmakwanaa/30min)
-
-[![GitHub](https://img.shields.io/badge/GitHub-profile-181717?style=for-the-badge&logo=github)](https://github.com/nishantmakwanaa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishantmakwanaa)
-[![Twitter](https://img.shields.io/badge/Twitter-profile-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wordsofnishant)
-
-**Timezone:** `Asia/Kolkata`
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nishantmakwanacreations@gmail.com) [![Schedule](https://img.shields.io/badge/Schedule-Cal.com-006BFF?style=flat-square&logo=calendar&logoColor=white)](https://cal.com/nishantmakwanaa/30min) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nishantmakwanaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishantmakwanaa) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/wordsofnishant) [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/myselfnishant) [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nishantmakwanaa) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/nishantmakwanaa) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nishantmakwanaa) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@nishantmakwanaa)
 
 </div>
 
@@ -31,34 +18,13 @@ I'm Nishant Makwana, a Full-Stack Software Engineer who turns complex engineerin
 
 ---
 
-## Tech stack
+## Tech Stack
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=cpp,py,ubuntu,react,ts,tailwind,nodejs,postgres,mongodb,redis,docker,nginx,git,aws&perline=9)
+![Skills](https://skillicons.dev/icons?i=cpp,py,ubuntu,react,ts,tailwind,nodejs,postgres,mongodb,redis,sklearn,pytorch,aws,docker,nginx,git,numpy-light,pandas-light&perline=9)
 
 </div>
-
-| Tool | Category |
-| :--- | :--- |
-| **C++** | Programming Language |
-| **Python** | Programming Language |
-| **Linux (Ubuntu)** | Systems |
-| **React** | Frontend |
-| **TypeScript** | Frontend |
-| **Tailwind CSS** | Frontend |
-| **Node.js (Express.js)** | Backend |
-| **PostgreSQL** | Database |
-| **MongoDB** | Database |
-| **Redis** | Database |
-| **NumPy** | Data/ML Library |
-| **Pandas** | Data/ML Library |
-| **scikit-learn** | Machine Learning |
-| **PyTorch** | Machine Learning |
-| **AWS** | Cloud |
-| **Docker** | DevOps Tool |
-| **Nginx** | Web Server |
-| **Git** | Version Control |
 
 ---
 
@@ -94,7 +60,7 @@ CGPA: 8.0 / 10. Relevant Coursework: Data Structures & Algorithms, Operating Sys
 
 ---
 
-## Activities & leadership
+## Activities
 
 | Role | Organization | Highlights |
 | :--- | :--- | :--- |
@@ -115,21 +81,7 @@ CGPA: 8.0 / 10. Relevant Coursework: Data Structures & Algorithms, Operating Sys
 | [3rd Place – YogaTech National Challenge](https://www.linkedin.com/posts/nishant-makwanaa_yogatech-activity-7264567766023438336-wQ8e) | Start-Up India / S-VYASA University, Bengaluru |
 | [Grand Finalist – SSIP State Hackathon (Top 5%)](https://www.linkedin.com/posts/nishant-makwanaa_ssip-hackathon-activity-7170000000000000000-xxxx) | SSIP State Hackathon |
 
----
-
-## More links
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-link-333?style=flat)](https://www.codechef.com/users/myselfnishant)
-[![Codeforces](https://img.shields.io/badge/Codeforces-link-333?style=flat)](https://codeforces.com/profile/nishantmakwanaa)
-[![LeetCode](https://img.shields.io/badge/LeetCode-link-333?style=flat)](https://leetcode.com/nishantmakwanaa)
-[![Instagram](https://img.shields.io/badge/Instagram-link-333?style=flat)](https://instagram.com/nishantmakwanaa)
-[![YouTube](https://img.shields.io/badge/YouTube-link-333?style=flat)](https://youtube.com/@nishantmakwanaa)
-
----
-
-<details>
-<summary><strong>Portfolio data</strong> — <code>main.json</code> schema for the site (parse this JSON)</summary>
-
+<!--
 ```json
 {
   "hero": {
@@ -206,96 +158,24 @@ CGPA: 8.0 / 10. Relevant Coursework: Data Structures & Algorithms, Operating Sys
     }
   ],
   "stack": [
-    {
-      "title": "C++",
-      "subtitle": "Programming Language",
-      "icon_url": "https://cdn.simpleicons.org/cplusplus"
-    },
-    {
-      "title": "Python",
-      "subtitle": "Programming Language",
-      "icon_url": "https://cdn.simpleicons.org/python"
-    },
-    {
-      "title": "Linux (Ubuntu)",
-      "subtitle": "Systems",
-      "icon_url": "https://cdn.simpleicons.org/ubuntu"
-    },
-    {
-      "title": "React",
-      "subtitle": "Frontend",
-      "icon_url": "https://cdn.simpleicons.org/react"
-    },
-    {
-      "title": "TypeScript",
-      "subtitle": "Frontend",
-      "icon_url": "https://cdn.simpleicons.org/typescript"
-    },
-    {
-      "title": "Tailwind CSS",
-      "subtitle": "Frontend",
-      "icon_url": "https://cdn.simpleicons.org/tailwindcss"
-    },
-    {
-      "title": "Node.js (Express.js)",
-      "subtitle": "Backend",
-      "icon_url": "https://cdn.simpleicons.org/nodedotjs"
-    },
-    {
-      "title": "PostgreSQL",
-      "subtitle": "Database",
-      "icon_url": "https://cdn.simpleicons.org/postgresql"
-    },
-    {
-      "title": "MongoDB",
-      "subtitle": "Database",
-      "icon_url": "https://cdn.simpleicons.org/mongodb"
-    },
-    {
-      "title": "Redis",
-      "subtitle": "Database",
-      "icon_url": "https://cdn.simpleicons.org/redis"
-    },
-    {
-      "title": "NumPy",
-      "subtitle": "Data/ML Library",
-      "icon_url": "https://cdn.simpleicons.org/numpy"
-    },
-    {
-      "title": "Pandas",
-      "subtitle": "Data/ML Library",
-      "icon_url": "https://cdn.simpleicons.org/pandas"
-    },
-    {
-      "title": "scikit-learn",
-      "subtitle": "Machine Learning",
-      "icon_url": "https://cdn.simpleicons.org/scikitlearn"
-    },
-    {
-      "title": "PyTorch",
-      "subtitle": "Machine Learning",
-      "icon_url": "https://cdn.simpleicons.org/pytorch"
-    },
-    {
-      "title": "AWS",
-      "subtitle": "Cloud",
-      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-    },
-    {
-      "title": "Docker",
-      "subtitle": "DevOps Tool",
-      "icon_url": "https://cdn.simpleicons.org/docker"
-    },
-    {
-      "title": "Nginx",
-      "subtitle": "Web Server",
-      "icon_url": "https://cdn.simpleicons.org/nginx"
-    },
-    {
-      "title": "Git",
-      "subtitle": "Version Control",
-      "icon_url": "https://cdn.simpleicons.org/git"
-    }
+    { "title": "C++", "subtitle": "Programming Language", "icon_url": "https://cdn.simpleicons.org/cplusplus" },
+    { "title": "Python", "subtitle": "Programming Language", "icon_url": "https://cdn.simpleicons.org/python" },
+    { "title": "Linux (Ubuntu)", "subtitle": "Systems", "icon_url": "https://cdn.simpleicons.org/ubuntu" },
+    { "title": "React", "subtitle": "Frontend", "icon_url": "https://cdn.simpleicons.org/react" },
+    { "title": "TypeScript", "subtitle": "Frontend", "icon_url": "https://cdn.simpleicons.org/typescript" },
+    { "title": "Tailwind CSS", "subtitle": "Frontend", "icon_url": "https://cdn.simpleicons.org/tailwindcss" },
+    { "title": "Node.js (Express.js)", "subtitle": "Backend", "icon_url": "https://cdn.simpleicons.org/nodedotjs" },
+    { "title": "PostgreSQL", "subtitle": "Database", "icon_url": "https://cdn.simpleicons.org/postgresql" },
+    { "title": "MongoDB", "subtitle": "Database", "icon_url": "https://cdn.simpleicons.org/mongodb" },
+    { "title": "Redis", "subtitle": "Database", "icon_url": "https://cdn.simpleicons.org/redis" },
+    { "title": "NumPy", "subtitle": "Data/ML Library", "icon_url": "https://cdn.simpleicons.org/numpy" },
+    { "title": "Pandas", "subtitle": "Data/ML Library", "icon_url": "https://cdn.simpleicons.org/pandas" },
+    { "title": "scikit-learn", "subtitle": "Machine Learning", "icon_url": "https://cdn.simpleicons.org/scikitlearn" },
+    { "title": "PyTorch", "subtitle": "Machine Learning", "icon_url": "https://cdn.simpleicons.org/pytorch" },
+    { "title": "AWS", "subtitle": "Cloud", "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" },
+    { "title": "Docker", "subtitle": "DevOps Tool", "icon_url": "https://cdn.simpleicons.org/docker" },
+    { "title": "Nginx", "subtitle": "Web Server", "icon_url": "https://cdn.simpleicons.org/nginx" },
+    { "title": "Git", "subtitle": "Version Control", "icon_url": "https://cdn.simpleicons.org/git" }
   ],
   "awards": [
     {
@@ -321,48 +201,16 @@ CGPA: 8.0 / 10. Relevant Coursework: Data Structures & Algorithms, Operating Sys
   ],
   "social_links": {
     "hero": [
-      {
-        "name": "GitHub",
-        "url": "https://github.com/nishantmakwanaa",
-        "icon_name": "github"
-      },
-      {
-        "name": "LinkedIn",
-        "url": "https://linkedin.com/in/nishantmakwanaa",
-        "icon_name": "linkedin"
-      },
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/wordsofnishant",
-        "icon_name": "twitter"
-      }
+      { "name": "GitHub", "url": "https://github.com/nishantmakwanaa", "icon_name": "github" },
+      { "name": "LinkedIn", "url": "https://linkedin.com/in/nishantmakwanaa", "icon_name": "linkedin" },
+      { "name": "Twitter", "url": "https://twitter.com/wordsofnishant", "icon_name": "twitter" }
     ],
     "contact": [
-      {
-        "name": "CodeChef",
-        "url": "https://www.codechef.com/users/myselfnishant",
-        "icon_name": "codechef"
-      },
-      {
-        "name": "Codeforces",
-        "url": "https://codeforces.com/profile/nishantmakwanaa",
-        "icon_name": "codeforces"
-      },
-      {
-        "name": "LeetCode",
-        "url": "https://leetcode.com/nishantmakwanaa",
-        "icon_name": "leetcode"
-      },
-      {
-        "name": "Instagram",
-        "url": "https://instagram.com/nishantmakwanaa",
-        "icon_name": "instagram"
-      },
-      {
-        "name": "YouTube",
-        "url": "https://youtube.com/@nishantmakwanaa",
-        "icon_name": "youtube"
-      }
+      { "name": "CodeChef", "url": "https://www.codechef.com/users/myselfnishant", "icon_name": "codechef" },
+      { "name": "Codeforces", "url": "https://codeforces.com/profile/nishantmakwanaa", "icon_name": "codeforces" },
+      { "name": "LeetCode", "url": "https://leetcode.com/nishantmakwanaa", "icon_name": "leetcode" },
+      { "name": "Instagram", "url": "https://instagram.com/nishantmakwanaa", "icon_name": "instagram" },
+      { "name": "YouTube", "url": "https://youtube.com/@nishantmakwanaa", "icon_name": "youtube" }
     ]
   },
   "contact": {
@@ -372,11 +220,4 @@ CGPA: 8.0 / 10. Relevant Coursework: Data Structures & Algorithms, Operating Sys
   }
 }
 ```
-
-</details>
-
-<div align="center">
-
-**Thanks for stopping by — feel free to reach out or grab a slot on [Cal.com](https://cal.com/nishantmakwanaa/30min).**
-
-</div>
+-->
