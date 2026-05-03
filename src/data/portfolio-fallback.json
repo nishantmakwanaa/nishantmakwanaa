@@ -1,0 +1,31 @@
+{
+  "hero": {
+    "name": "Nishant Makwana",
+    "role": "Software Engineer",
+    "location": "Ahmedabad, India",
+    "email": "nishantmakwanacreations@gmail.com",
+    "schedule_link": "https://cal.com/nishantmakwanaa/30min"
+  },
+  "pinned_repos": [],
+  "about": [
+    "Portfolio data loads from your GitHub profile README. If you see this text, the live README could not be loaded — check your connection or the JSON code block in nishantmakwanaa/nishantmakwanaa."
+  ],
+  "experience": [],
+  "education": [],
+  "activities": [],
+  "stack": [],
+  "awards": [],
+  "social_links": {
+    "hero": [
+      { "name": "GitHub", "url": "https://github.com/nishantmakwanaa", "icon_name": "github" },
+      { "name": "LinkedIn", "url": "https://linkedin.com/in/nishantmakwanaa", "icon_name": "linkedin" },
+      { "name": "Twitter", "url": "https://twitter.com/wordsofnishant", "icon_name": "twitter" }
+    ],
+    "contact": []
+  },
+  "contact": {
+    "email": "nishantmakwanacreations@gmail.com",
+    "phone": "",
+    "timezone": "Asia/Kolkata"
+  }
+}
