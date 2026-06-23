@@ -59,8 +59,8 @@
 
 ## 🚀 Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **CodeX** | Collaborative code editor with live editing, video calling, GitHub sync | React, Spring Boot, WebSockets |
-| **URL Shortener** | Full-stack shortener with analytics & authentication | React, Spring Boot, PostgreSQL |
-| **Plant Disease Detection** | Deep learning for leaf disease classification | React, FastAPI, PyTorch, OpenCV |
+| Project | Description | Tech | Links |
+|---------|-------------|------|-------|
+| **CodeX** | Collaborative code editor with live editing, video calling, GitHub sync | React, Spring Boot, WebSockets | [Project Link](https://codeforever.vercel.app/) |
+| **URL Shortener** | Full-stack shortener with analytics & authentication | React, Spring Boot, PostgreSQL | [Project Link](https://makeshorturl.vercel.app/) |
+| **Plant Disease Detection** | Deep learning for leaf disease classification | React, FastAPI, PyTorch, OpenCV | [Project Link](https://iloveplants.vercel.app/) |
