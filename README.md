@@ -1,222 +1,70 @@
 # 👋 Hi, I'm Nishant Makwana
 
-<img align="right" src="https://komarev.com/ghpvc/?username=nishantmakwanaa&label=Profile%20Views&color=0e75b6&style=flat" />
+---
 
-## 🚀 AI + Full Stack Engineer | Software Developer | Problem Solver
+## 🚀 About Me
 
-🎓 **B.E. Information Technology @ Gujarat Technological University (GTU)**  
-💼 Ex-Software Engineer Trainee @ SynerSense  
-💻 React Native Intern @ OrgLance Technologies LLP  
-🏆 LeetCode Knight | 5+ Hackathons | AI Builder  
-
-I am an **AI + Full Stack Developer** passionate about building intelligent, scalable, and production-ready applications using modern technologies.
-
-I enjoy working across the entire development lifecycle — from designing systems and training ML models to building APIs, deploying applications, and creating seamless user experiences.
+🎓 **B.E. IT** @ GTU  
+💼 Ex-Software Engineer @ SynerSense · React Native @ OrgLance  
+🏆 5+ Hackathon wins · LeetCode Knight  
+🧠 Passionate about **AI, Generative AI, LLMs & Full Stack**  
+⚡ I build, deploy, and scale intelligent systems.
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ Tech Stack
 
-- 🔭 Currently building projects around **AI, Generative AI, LLMs, and Full Stack Development**
-- 🌱 Learning advanced **Machine Learning, Deep Learning, System Design & Cloud Architecture**
-- 💡 Interested in:
-  - Artificial Intelligence
-  - Machine Learning
-  - Generative AI
-  - LLM Applications
-  - Backend Engineering
-  - Full Stack Development
-  - Distributed Systems
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-- ⚡ Love solving problems using **Data Structures & Algorithms**
-- 🚀 Believe in **Learn → Build → Deploy → Improve**
+### AI / ML
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
----
+### Backend & Frontend
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
-# 🏆 Achievements
-
-🥇 **Winner — HackOple Hackathon 2025**  
-> Built an AI-powered Code Reviewer & Code Generator platform
-
-🏅 **Grand Finalist — InnovAItion Hackathon 2026**  
-> Worked on AI-driven real-world solutions
-
-🏅 **Winner — Yoga-Tech Challenge 2024**  
-> Built AI Yoga Assistant using MERN + Machine Learning
-
-🏅 **Grand Finalist — TechManjari TechFest 2025**  
-> Developed AI-assisted E-Waste Recycling Platform
-
-🏅 **Grand Finalist — IDE BootCamp 2024**
-
-🏅 **Grand Finalist — SSIP State Hackathon 2023**
+### Databases & DevOps
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-## Software Engineer Trainee
-### SynerSense
-
-- Worked on AI-powered healthcare systems
-- Developed backend services and ML integrations
-- Worked with:
-  - Python
-  - FastAPI
-  - Machine Learning
-  - AWS
-  - Databases
+- **SynerSense** · Software Engineer Trainee · AI Healthcare · FastAPI, ML, AWS  
+- **OrgLance Technologies LLP** · React Native Intern · Mobile Apps · AI Integrations
 
 ---
 
-## React Native Intern
-### OrgLance Technologies LLP
+## 🏆 Achievements
 
-- Built mobile applications
-- Worked with:
-  - React Native
-  - JavaScript / TypeScript
-  - APIs
-  - AI integrations
+🥇 **Winner** — HackOple 2025 · AI Code Reviewer  
+🏅 **Grand Finalist** — InnovAItion 2026 · AI Solutions  
+🏅 **Winner** — Yoga-Tech 2024 · AI Yoga Assistant  
+🏅 **Grand Finalist** — TechManjari 2025 · AI E-Waste Platform  
+🏅 **Grand Finalist** — IDE BootCamp 2024 & SSIP 2023
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🧑‍💻 CodeX — Online Collaborative Code Editor
-
-Real-time collaborative coding platform with:
-
-- Live code editing
-- Multiplayer rooms
-- Code execution
-- Video calling
-- GitHub integration
-- Notes & collaboration
-
-Tech:
-`Next.js` `Socket.IO` `Docker` `GitHub API`
-
----
-
-## 🌱 Plant Disease Detection
-
-Machine Learning based application that detects plant diseases using:
-
-- Image Processing
-- Deep Learning
-- Computer Vision
-
-Features:
-
-- Leaf image analysis
-- Disease prediction
-- AI-based crop protection assistance
-
-Tech:
-
-`Python` `PyTorch` `OpenCV` `Machine Learning`
-
----
-
-## 🔗 URL Shortener
-
-Full-stack URL shortening platform.
-
-Features:
-
-- Authentication
-- URL management
-- Analytics
-
-Tech:
-
-`React` `Node.js` `Database`
-
----
-
-# 🛠️ Tech Stack
-
-## Languages
-
-![Python](https://img.shields.io/badge/Python-blue)
-![Java](https://img.shields.io/badge/Java-red)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![SQL](https://img.shields.io/badge/SQL-black)
-![C++](https://img.shields.io/badge/C++-blue)
-
-## AI / ML
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Generative AI
-- LLM Applications
-- Prompt Engineering
-- RAG Systems
-- Fine Tuning
-
-Frameworks:
-
-- PyTorch
-- Scikit-Learn
-- TensorFlow
-- Transformers
-- LangChain
-- LangGraph
-- LlamaIndex
-
----
-
-## Backend
-
-- FastAPI
-- Spring Boot
-- REST APIs
-- Microservices
-- Authentication
-
----
-
-## Frontend
-
-- React.js
-- Next.js
-- HTML
-- CSS
-- Tailwind CSS
-
----
-
-## Databases
-
-- PostgreSQL
-- MongoDB
-- Redis
-
----
-
-## Cloud & DevOps
-
-- AWS
-- Docker
-- Git
-- Linux
-- Nginx
-- MLflow
-
----
-
-# 📚 Currently Learning
-
-- Advanced System Design
-- Distributed Systems
-- LLM Engineering
-- AI Agents
-- Cloud Architecture
-- Competitive Programming
-
----
-
-⭐ From **Nishant Makwana** : Building the future with **AI + Software Engineering 🚀**
+| Project | Description | Tech |
+|---------|-------------|------|
+| **CodeX** | Collaborative code editor with live editing, video calling, GitHub sync | React, Spring Boot, WebSockets |
+| **URL Shortener** | Full-stack shortener with analytics & authentication | React, Spring Boot, PostgreSQL |
+| **Plant Disease Detection** | Deep learning for leaf disease classification | React, FastAPI, PyTorch, OpenCV |
