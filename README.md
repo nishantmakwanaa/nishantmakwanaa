@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Nishant Makwana
-
----
+# 🇮🇳 | Hi, I'm Nishant Makwana
 
 ## 🚀 About Me
 
@@ -19,7 +17,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### AI / ML
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -32,7 +29,6 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
 ### Databases & DevOps
@@ -61,7 +57,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
