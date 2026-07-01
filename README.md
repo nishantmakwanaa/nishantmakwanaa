@@ -2,11 +2,13 @@
 
 ## 🚀 About Me
 
-🎓 **B.E. IT** @ GTU  
-💼 Ex-Software Engineer @ SynerSense · React Native @ OrgLance  
-🏆 5+ Hackathon wins · LeetCode Knight  
-🧠 Passionate about **AI, Generative AI, LLMs & Full Stack**  
-⚡ I build, deploy, and scale intelligent systems.
+🎓 **B.E. Information Technology** @ GTU, graduating 2026
+
+💼 Software Engineer Trainee @ SynerSense · React Native Intern @ OrgLance
+
+🏆 5+ hackathon grand finals · 1st place, HackOple 2025 · LeetCode Knight
+
+🧠 Building full-stack products across web, mobile, and ML inference
 
 ---
 
@@ -18,49 +20,48 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
-### AI / ML
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-### Backend & Frontend
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-### Databases & DevOps
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+### Cloud & Tools
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-## 💼 Experience
-
-- **SynerSense** · Software Engineer Trainee · AI Healthcare · FastAPI, ML, AWS  
-- **OrgLance Technologies LLP** · React Native Intern · Mobile Apps · AI Integrations
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
 ## 🏆 Achievements
 
-🥇 **Winner** — HackOple 2025 · AI Code Reviewer  
-🏅 **Grand Finalist** — InnovAItion 2026 · AI Solutions  
-🏅 **Winner** — Yoga-Tech 2024 · AI Yoga Assistant  
-🏅 **Grand Finalist** — TechManjari 2025 · AI E-Waste Platform  
-🏅 **Grand Finalist** — IDE BootCamp 2024 & SSIP 2023
+🥇 **1st Rank** — HackOple 2025 (Milople Technologies) · real-time collaborative code editor
+
+🏅 **Grand Finalist** — InnovAItion 2026, TechManjari 2025, YogaTech 2024, IDE BootCamp 2024, SSIP Hackathon 2023
+
+🎓 **Research Cell & IT Cell** — AI/ML research + features shipped to the college ERP portal
+
+👥 **Founder & Mentor** — Coding Club, 150+ members, weekly DSA and AI/ML sessions
 
 ---
 
 ## 🚀 Projects
 
-| Project | Description | Tech | Links |
-|---------|-------------|------|-------|
-| **CodeX** | Collaborative code editor with live editing, video calling, GitHub sync | React, Spring Boot, WebSockets | [Project Link](https://codeforever.vercel.app/) |
-| **URL Shortener** | Full-stack shortener with analytics & authentication | React, Spring Boot, PostgreSQL | [Project Link](https://makeshorturl.vercel.app/) |
-| **Plant Disease Detection** | Deep learning for leaf disease classification | React, FastAPI, PyTorch, OpenCV | [Project Link](https://iloveplants.vercel.app/) |
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| **CodeX** | Real-time collaborative code editor with live cursor sync, WebRTC video calls, and in-browser code execution | Next.js, Socket.IO, WebRTC, Judge0 | [Link](https://codeforever.vercel.app/) |
+| **Plant Disease Detection** | Fine-tuned PyTorch CNN serving disease predictions from leaf images | React, FastAPI, PyTorch | [Link](https://iloveplants.vercel.app/) |
+| **URL Shortener** | Full-stack shortener with authentication and click-tracking analytics | Next.js, MongoDB, Clerk | [Link](https://makeshorturl.vercel.app/) |
