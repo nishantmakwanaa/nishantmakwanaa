@@ -1,0 +1,23 @@
+Python is a programming language created by Guido van Rossum.
+Python is used in AI, automation, web development and data science.
+
+Docker is a container platform.
+Docker packages applications and dependencies into containers.
+
+React is a JavaScript library created by Facebook.
+React uses components and virtual DOM.
+
+Node.js allows JavaScript to run on servers.
+
+Kubernetes manages containers.
+It provides scaling and deployment.
+
+FastAPI is a Python framework for building APIs.
+
+Machine learning allows systems to learn patterns from data.
+
+Transformers use attention mechanisms to understand relationships between tokens.
+
+Git is a distributed version control system.
+
+AWS provides cloud services like EC2, S3 and Lambda.
